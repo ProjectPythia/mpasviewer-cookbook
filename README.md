@@ -18,13 +18,12 @@ The development of this Pythia cookbook is motivated by the need to make MPAS-Vi
 ## Authors
 
 
-| Name      | Affiliation |
+| Name        | Affiliation |
 | ----------- | ----------- |
-| [Jorge Bravo](https://github.com/jhbravo)                 | Stevens Institute of Technology |      |
-| [Name](https://github.com/user) | Affiliation  |
-| [Melissa Zavaleta](https://github.com/melissazavaleta)              | Florida Institute of Technology |
-| [Bella Condo](https://github.com/bmcondo)                 | Texas A&M University |
-| []()              |  |
+| [Jorge Bravo](https://github.com/jhbravo)              | Stevens Institute of Technology |
+| [Melissa Zavaleta](https://github.com/melissazavaleta) | Florida Institute of Technology |
+| [Bella Condo](https://github.com/bmcondo)              | Texas A&M University |
+| [Ge Ming](https://github.com/ming80302)                | MMM/NCAR |
 | []()              |  |
 | []()              |  |
 | []()              |  |

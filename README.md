@@ -21,7 +21,7 @@ The development of this Pythia cookbook is motivated by the need to make MPAS-Vi
 | Name      | Affiliation |
 | ----------- | ----------- |
 | [Jorge Bravo](https://github.com/jhbravo)                 | Stevens Institute of Technology |      |
-| [Name](https://github.com/user) | Affiliation  |
+| [Bella Condo](https://github.com/bmcondo)                 | Texas A&M University |
 | []()              |  |
 | []()              |  |
 | []()              |  |

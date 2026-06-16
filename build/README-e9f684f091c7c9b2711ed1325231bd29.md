@@ -1,4 +1,4 @@
-# (Replace_with_your_title) Cookbook
+# MPAS-Viewer Cookbook
 
 <img src="thumbnails/thumbnail.png" alt="thumbnail" width="300"/>
 
@@ -6,17 +6,26 @@
 [![Binder](https://binder.projectpythia.org/badge_logo.svg)](https://binder.projectpythia.org/v2/gh/ProjectPythia/cookbook-template/main?labpath=notebooks)
 [![DOI](https://zenodo.org/badge/475509405.svg)](https://zenodo.org/badge/latestdoi/475509405)
 
-_See the [Cookbook Contributor's Guide](https://projectpythia.org/cookbook-guide) for step-by-step instructions on how to create your new Cookbook and get it hosted on the [Pythia Cookbook Gallery](https://cookbooks.projectpythia.org)!_
 
-This Project Pythia Cookbook covers ... (replace `...` with the main subject of your cookbook ... e.g., _working with radar data in Python_)
+This **"Pythia Cookbook"** was started during the **Project Pythia June 15-18 2026 in Boulder, CO at the NCAR Mesa Lab**. 
+
+This **MPAS-Viewer Cookbook** aims to provide a comprehensive guide for utilizing MPAS-Viewer, a lightweight and efficient Python-based visualization tool designed specifically for MPAS data. Unlike common approaches that rely on triangulation or iterative polygon construction, MPAS-Viewer operates directly on the native mesh, treating each model cell as the fundamental plotting unit. This approach avoids computationally expensive preprocessing steps and significantly reduces rendering time.
 
 ## Motivation
 
-(Add a few sentences stating why this cookbook will be useful. What skills will you, "the chef", gain once you have reached the end of the cookbook?)
+The development of this Pythia cookbook is motivated by the need to make MPAS-Viewer accessible, reproducible, and easy to adopt within the scientific community. By combining clear explanations with practical, executable examples, this cookbook provides users with a guided pathway to rapidly visualize, explore, and analyze MPAS-A outputs. It emphasizes simplicity, performance, and interactivity, enabling workflows that support animations, time exploration, and efficient data interrogation.
 
 ## Authors
 
-First Author, Second Author, etc. _Acknowledge primary content authors here! You can include links to their GitHub profiles or other unique pages._
+
+| Name      | Affiliation |
+| ----------- | ----------- |
+| [Jorge Bravo](https://github.com/jhbravo)                 | Stevens Institute of Technology |      |
+| [Name](https://github.com/user) | Affiliation  |
+| []()              |  |
+| []()              |  |
+| []()              |  |
+| []()              |  |
 
 ### Contributors
 
@@ -26,15 +35,17 @@ First Author, Second Author, etc. _Acknowledge primary content authors here! You
 
 ## Structure
 
-(State one or more sections that will comprise the notebook. E.g., _This cookbook is broken up into two main sections - "Foundations" and "Example Workflows."_ Then, describe each section below.)
+This practical development manual serves as an example of how to collect, manage, and present various MPAS-A data.
 
-### Section 1 ( Replace with the title of this section, e.g. "Foundations" )
+### Foundations
 
-(Add content for this section, e.g., "The foundational content includes ... ")
+The **Model for Prediction Across Scales Atmosphere (MPAS-A)** is an advanced atmospheric model designed to represent weather systems across both regional and global scales. Its defining feature is the use of an unstructured, variable-resolution mesh, often described as a honeycomb-like grid, which allows high resolution in regions of interest while maintaining coarser resolution elsewhere. This design enables MPAS-A to efficiently capture fine-scale phenomena such as convection and storms without sacrificing the ability to simulate large-scale atmospheric dynamics.
 
-### Section 2 ( Replace with the title of this section, e.g. "Example workflows" )
+Despite these advantages, the unstructured nature of the MPAS mesh introduces challenges for data visualization and analysis. Although MPAS-A outputs are stored in NetCDF format, they cannot be treated like conventional gridded raster data. Proper handling of the data requires knowledge of the mesh connectivity, including vertices, edges, and cell centroids, which complicates otherwise straightforward visualization tasks. As a result, rapid inspection and exploratory analysis of MPAS-A outputs can become time-consuming and technically demanding.
 
-(Add content for this section, e.g., "Example workflows include ... ")
+### Example workflows
+
+Several notebooks with the following structure can be found in the notebooks directory:
 
 ## Running the Notebooks
 

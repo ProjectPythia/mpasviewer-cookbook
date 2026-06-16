@@ -1,1 +1,1 @@
-import{a}from"/cookbook-template/build/_shared/chunk-37MEAX4M.js";import"/cookbook-template/build/_shared/chunk-OZE3FFNP.js";export default a();
+import{a}from"/mpasviewer-cookbook/build/_shared/chunk-37MEAX4M.js";import"/mpasviewer-cookbook/build/_shared/chunk-OZE3FFNP.js";export default a();

@@ -1,1 +1,1 @@
-import{a}from"/cookbook-template/build/_shared/chunk-VZXSIKCR.js";import"/cookbook-template/build/_shared/chunk-XK3K4AT7.js";import"/cookbook-template/build/_shared/chunk-MRS6DOXX.js";import"/cookbook-template/build/_shared/chunk-OZE3FFNP.js";export default a();
+import{a}from"/mpasviewer-cookbook/build/_shared/chunk-VZXSIKCR.js";import"/mpasviewer-cookbook/build/_shared/chunk-XK3K4AT7.js";import"/mpasviewer-cookbook/build/_shared/chunk-MRS6DOXX.js";import"/mpasviewer-cookbook/build/_shared/chunk-OZE3FFNP.js";export default a();

@@ -17,7 +17,6 @@ The development of this Pythia cookbook is motivated by the need to make MPAS-Vi
 
 ## Authors
 
-
 | Name        | Affiliation |
 | ----------- | ----------- |
 | [Jorge Bravo](https://github.com/jhbravo)              | Stevens Institute of Technology |
@@ -78,22 +77,22 @@ executable book chapter.
 
 If you are interested in running this material locally on your computer, you will need to follow this workflow:
 
-(Replace "cookbook-example" with the title of your cookbooks)
+(Replace "mpasviewer-cookbook" with the title of your cookbooks)
 
-1. Clone the `https://github.com/ProjectPythia/cookbook-example` repository:
+1. Clone the `https://github.com/ProjectPythia/mpasviewer-cookbook` repository:
 
    ```bash
-    git clone https://github.com/ProjectPythia/cookbook-example.git
+    git clone https://github.com/ProjectPythia/mpasviewer-cookbook.git
    ```
 
-1. Move into the `cookbook-example` directory
+1. Move into the `mpasviewer-cookbook` directory
    ```bash
-   cd cookbook-example
+   cd mpasviewer-cookbook
    ```
 1. Create and activate your conda environment from the `environment.yml` file
    ```bash
    conda env create -f environment.yml
-   conda activate cookbook-example
+   conda activate mpasviewer-cookbook
    ```
 1. Move into the `notebooks` directory and start up Jupyterlab
    ```bash

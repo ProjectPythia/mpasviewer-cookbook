@@ -13,4 +13,7 @@
   <url>
     <loc>http://localhost:3000/notebooks/readme</loc>
   </url>
+  <url>
+    <loc>http://localhost:3000/notebooks/convective-environments</loc>
+  </url>
 </urlset>

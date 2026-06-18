@@ -20,6 +20,7 @@ project:
       children: 
         - file: notebooks/README.md
         - file: notebooks/convective-environments.ipynb
+        - file: notebooks/Hurricane_Ida_Pt2.ipynb
   jupyter:
       binder:
         url: https://binder.projectpythia.org

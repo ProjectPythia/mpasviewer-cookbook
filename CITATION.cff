@@ -7,16 +7,6 @@ authors:
     orcid: https://orcid.org/0009-0005-0561-150X
     website: https://github.com/jhbravo
     affiliation: Stevens Institute of Technology
-  - family-names: Rose
-    given-names: Brian E. J.
-    orcid: https://orcid.org/0000-0002-9961-3821 # optional
-    website: https://github.com/brian-rose # optional
-    affiliation: University at Albany (State University of New York) # optional
-  - family-names: Agarwal
-    given-names: Nathan
-    orcid: https://orcid.org/0000-0002-2734-5514
-    website: https://github.com/nathanagarwal314/
-    affiliation: Johns Hopkins University
   - family-names: Condo
     given-names: Bella
     orcid: https://orcid.org/0009-0000-0688-7077
@@ -32,7 +22,12 @@ authors:
     orcid: https://orcid.org/0000-0002-4476-4331
     website: https://github.com/ming80302
     affiliation: MMM/NCAR
-  - name: "MPAS Viewer Cookbook contributors" # use the 'name' field to acknowledge organizations
+  - family-names: Agarwal
+    given-names: Nathan
+    orcid: https://orcid.org/0000-0002-2734-5514
+    website: https://github.com/nathanagarwal314/
+    affiliation: Johns Hopkins University
+  - name: "MPAS Viewer Cookbook contributors"
     website: "https://github.com/ProjectPythia/mpasviewer-cookbook/graphs/contributors"
 title: "MPAS Viewer Cookbook"
 abstract: "This repository provides examples of how to use MPAS-Viewer, a Python package for efficient visualization of Model for Prediction Across Scales (MPAS) data based on the Spherical Centroidal Voronoi Tessellation (SCVT) mesh."

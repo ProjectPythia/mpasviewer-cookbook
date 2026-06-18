@@ -7,6 +7,16 @@ authors:
     orcid: https://orcid.org/0009-0005-0561-150X
     website: https://github.com/jhbravo
     affiliation: Stevens Institute of Technology
+  - family-names: Rose
+    given-names: Brian E. J.
+    orcid: https://orcid.org/0000-0002-9961-3821 # optional
+    website: https://github.com/brian-rose # optional
+    affiliation: University at Albany (State University of New York) # optional
+  - family-names: Agarwal
+    given-names: Nathan
+    orcid: https://orcid.org/0000-0002-2734-5514
+    website: https://github.com/nathanagarwal314/
+    affiliation: Johns Hopkins University
   - family-names: Condo
     given-names: Bella
     orcid: https://orcid.org/0009-0000-0688-7077

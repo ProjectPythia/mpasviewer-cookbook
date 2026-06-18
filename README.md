@@ -1,5 +1,6 @@
 # MPAS-Viewer Cookbook
 
+<img src="thumbnails/mpas_01.png" alt="mpas" width="300"/>
 <img src="thumbnails/thumbnail.png" alt="thumbnail" width="300"/>
 
 [![nightly-build](https://github.com/ProjectPythia/cookbook-template/actions/workflows/nightly-build.yaml/badge.svg)](https://github.com/ProjectPythia/cookbook-template/actions/workflows/nightly-build.yaml)
@@ -17,17 +18,13 @@ The development of this Pythia cookbook is motivated by the need to make MPAS-Vi
 
 ## Authors
 
-
-| Name      | Affiliation |
+| Name        | Affiliation |
 | ----------- | ----------- |
-| [Jorge Bravo](https://github.com/jhbravo)                 | Stevens Institute of Technology |      |
-| [Name](https://github.com/user) | Affiliation  |
-| [Melissa Zavaleta](https://github.com/melissazavaleta)              | Florida Institute of Technology |
-| [Bella Condo](https://github.com/bmcondo)                 | Texas A&M University |
-| []()              |  |
-| []()              |  |
-| []()              |  |
-| []()              |  |
+| [Jorge Bravo](https://github.com/jhbravo)              | Stevens Institute of Technology |
+| [Melissa Zavaleta](https://github.com/melissazavaleta) | Florida Institute of Technology |
+| [Bella Condo](https://github.com/bmcondo)              | Texas A&M University |
+| [Ge Ming](https://github.com/ming80302)                | MMM/NCAR |
+| [Agarwal Nathan](https://github.com/nathanagarwal314)              | Johns Hopkins University |
 
 ### Contributors
 
@@ -79,22 +76,22 @@ executable book chapter.
 
 If you are interested in running this material locally on your computer, you will need to follow this workflow:
 
-(Replace "cookbook-example" with the title of your cookbooks)
+(Replace "mpasviewer-cookbook" with the title of your cookbooks)
 
-1. Clone the `https://github.com/ProjectPythia/cookbook-example` repository:
+1. Clone the `https://github.com/ProjectPythia/mpasviewer-cookbook` repository:
 
    ```bash
-    git clone https://github.com/ProjectPythia/cookbook-example.git
+    git clone https://github.com/ProjectPythia/mpasviewer-cookbook.git
    ```
 
-1. Move into the `cookbook-example` directory
+1. Move into the `mpasviewer-cookbook` directory
    ```bash
-   cd cookbook-example
+   cd mpasviewer-cookbook
    ```
 1. Create and activate your conda environment from the `environment.yml` file
    ```bash
    conda env create -f environment.yml
-   conda activate cookbook-example
+   conda activate mpasviewer-cookbook
    ```
 1. Move into the `notebooks` directory and start up Jupyterlab
    ```bash

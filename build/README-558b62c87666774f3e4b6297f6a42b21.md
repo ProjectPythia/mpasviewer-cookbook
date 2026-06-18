@@ -1,5 +1,6 @@
 # MPAS-Viewer Cookbook
 
+<img src="thumbnails/mpas_01.png" alt="mpas" width="300"/>
 <img src="thumbnails/thumbnail.png" alt="thumbnail" width="300"/>
 
 [![nightly-build](https://github.com/ProjectPythia/cookbook-template/actions/workflows/nightly-build.yaml/badge.svg)](https://github.com/ProjectPythia/cookbook-template/actions/workflows/nightly-build.yaml)
@@ -23,9 +24,7 @@ The development of this Pythia cookbook is motivated by the need to make MPAS-Vi
 | [Melissa Zavaleta](https://github.com/melissazavaleta) | Florida Institute of Technology |
 | [Bella Condo](https://github.com/bmcondo)              | Texas A&M University |
 | [Ge Ming](https://github.com/ming80302)                | MMM/NCAR |
-| []()              |  |
-| []()              |  |
-| []()              |  |
+| [Agarwal Nathan](https://github.com/nathanagarwal314)              | Johns Hopkins University |
 
 ### Contributors
 

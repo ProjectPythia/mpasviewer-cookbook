@@ -16,4 +16,7 @@
   <url>
     <loc>http://localhost:3000/notebooks/convective-environments</loc>
   </url>
+  <url>
+    <loc>http://localhost:3000/notebooks/hurricane-ida-pt2</loc>
+  </url>
 </urlset>

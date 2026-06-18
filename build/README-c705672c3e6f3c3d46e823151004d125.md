@@ -2,17 +2,14 @@
 
 <table>
   <tr>
-    <td><img src="thumbnails/mpas_01.png" width="200"></td>
-    <td><img src="thumbnails/thumbnail.png" width="200"></td>
+    <td><img src="thumbnails/mpas_01.png" width="150"></td>
+    <td><img src="thumbnails/thumbnail.png" width="150"></td>
   </tr>
 </table>
 
-
 [![nightly-build](https://github.com/ProjectPythia/cookbook-template/actions/workflows/nightly-build.yaml/badge.svg)](https://github.com/ProjectPythia/cookbook-template/actions/workflows/nightly-build.yaml)
 [![Binder](https://binder.projectpythia.org/badge_logo.svg)](https://binder.projectpythia.org/v2/gh/ProjectPythia/cookbook-template/main?labpath=notebooks)
-[![DOI](https://zenodo.org/badge/475509405.svg)](https://doi.org/10.5281/zenodo.20753191)
-
-
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20753191.svg)](https://doi.org/10.5281/zenodo.20753191)
 
 This **"Pythia Cookbook"** was started during the **Project Pythia June 15-18 2026 in Boulder, CO at the NCAR Mesa Lab**. 
 

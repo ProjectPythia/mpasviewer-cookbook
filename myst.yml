@@ -21,6 +21,7 @@ project:
         - file: notebooks/README.md
         - file: notebooks/convective-environments.ipynb
         - file: notebooks/Hurricane_Ida_Pt2.ipynb
+        - file: notebooks/20_remote_out_hurricane_investigation.ipynb
   jupyter:
       binder:
         url: https://binder.projectpythia.org
